@@ -319,6 +319,340 @@
 						"coord" => "19, 278, 122, 485"
 					)
 				)
+			),
+			array(
+				"data" => "21",
+				"class" => "page-21",
+				"nombre" => "productos",
+				"numero" => "page-21",
+				"image" => "CATALOGO GHIA 2018 ABRIL21.jpg",
+				"url" => "img/libro",
+				"area" => "map-page-21",
+				"coords" => array(
+					array(
+						"coord" => "17, 66, 386, 585"
+					)
+				)
+			),
+			array(
+				"data" => "22",
+				"class" => "page-22",
+				"nombre" => "productos",
+				"numero" => "page-22",
+				"image" => "CATALOGO GHIA 2018 ABRIL22.jpg",
+				"url" => "img/libro",
+				"area" => "map-page-22",
+				"coords" => array(
+					array(
+						"coord" => "15, 57, 381, 579"
+					)
+				)
+			),
+			array(
+				"data" => "23",
+				"class" => "page-23",
+				"nombre" => "productos",
+				"numero" => "page-23",
+				"image" => "CATALOGO GHIA 2018 ABRIL23.jpg",
+				"url" => "img/libro",
+				"area" => "map-page-23",
+				"coords" => array(
+					array(
+						"coord" => "14, 61, 385, 575"
+					)
+				)
+			),
+			array(
+				"data" => "24",
+				"class" => "page-24",
+				"nombre" => "productos",
+				"numero" => "page-24",
+				"image" => "CATALOGO GHIA 2018 ABRIL24.jpg",
+				"url" => "img/libro",
+				"area" => "map-page-24",
+				"coords" => array(
+					array(
+						"coord" => "20, 59, 386, 588"
+					)
+				)
+			),
+			array(
+				"data" => "25",
+				"class" => "page-25",
+				"nombre" => "productos",
+				"numero" => "page-25",
+				"image" => "CATALOGO GHIA 2018 ABRIL25.jpg",
+				"url" => "img/libro",
+				"area" => "map-page-25",
+				"coords" => array(
+					array(
+						"coord" => "12, 60, 381, 582"
+					)
+				)
+			),
+			array(
+				"data" => "26",
+				"class" => "page-26",
+				"nombre" => "productos",
+				"numero" => "page-26",
+				"image" => "CATALOGO GHIA 2018 ABRIL26.jpg",
+				"url" => "img/libro",
+				"area" => "map-page-26",
+				"coords" => array(
+					array(
+						"coord" => "21, 66, 382, 576"
+					)
+				)
+			),
+			array(
+				"data" => "27",
+				"class" => "page-27",
+				"nombre" => "productos",
+				"numero" => "page-27",
+				"image" => "CATALOGO GHIA 2018 ABRIL27.jpg",
+				"url" => "img/libro",
+				"area" => "map-page-27",
+				"coords" => array(
+					array(
+						"coord" => "17, 56, 376, 583"
+					)
+				)
+			),
+			array(
+				"data" => "28",
+				"class" => "page-28",
+				"nombre" => "productos",
+				"numero" => "page-28",
+				"image" => "CATALOGO GHIA 2018 ABRIL28.jpg",
+				"url" => "img/libro",
+				"area" => "map-page-28",
+				"coords" => array(
+					array(
+						"coord" => "20, 68, 375, 580"
+					)
+				)
+			),
+			array(
+				"data" => "29",
+				"class" => "page-29",
+				"nombre" => "productos",
+				"numero" => "page-29",
+				"image" => "CATALOGO GHIA 2018 ABRIL29.jpg",
+				"url" => "img/libro",
+				"area" => "map-page-29",
+				"coords" => array(
+					array(
+						"coord" => "19, 57, 376, 579"
+					)
+				)
+			),
+			array(
+				"data" => "30",
+				"class" => "page-30",
+				"nombre" => "productos",
+				"numero" => "page-30",
+				"image" => "CATALOGO GHIA 2018 ABRIL30.jpg",
+				"url" => "img/libro",
+				"area" => "map-page-30",
+				"coords" => array(
+					array(
+						"coord" => "129, 96, 260, 363"
+					),
+					array(
+						"coord" => "11, 97, 126, 363"
+					)
+				)
+			),
+			array(
+				"data" => "31",
+				"class" => "page-31",
+				"nombre" => "productos",
+				"numero" => "page-31",
+				"image" => "CATALOGO GHIA 2018 ABRIL31.jpg",
+				"url" => "img/libro",
+				"area" => "map-page-31",
+				"coords" => array(
+					array(
+						"coord" => "10, 47, 385, 582"
+					)
+				)
+			),
+			array(
+				"data" => "32",
+				"class" => "page-32",
+				"nombre" => "productos",
+				"numero" => "page-32",
+				"image" => "CATALOGO GHIA 2018 ABRIL32.jpg",
+				"url" => "img/libro",
+				"area" => "map-page-32",
+				"coords" => array(
+					array(
+						"coord" => "18, 57, 381, 578"
+					)
+				)
+			),
+			array(
+				"data" => "33",
+				"class" => "page-33",
+				"nombre" => "productos",
+				"numero" => "page-33",
+				"image" => "CATALOGO GHIA 2018 ABRIL33.jpg",
+				"url" => "img/libro",
+				"area" => "map-page-33",
+				"coords" => array(
+					array(
+						"coord" => "20, 68, 375, 580"
+					)
+				)
+			),
+			array(
+				"data" => "34",
+				"class" => "page-34",
+				"nombre" => "productos",
+				"numero" => "page-34",
+				"image" => "CATALOGO GHIA 2018 ABRIL34.jpg",
+				"url" => "img/libro",
+				"area" => "map-page-34",
+				"coords" => array(
+					array(
+						"coord" => "20, 68, 375, 580"
+					)
+				)
+			),
+			array(
+				"data" => "35",
+				"class" => "page-35",
+				"nombre" => "productos",
+				"numero" => "page-35",
+				"image" => "CATALOGO GHIA 2018 ABRIL35.jpg",
+				"url" => "img/libro",
+				"area" => "map-page-35",
+				"coords" => array(
+					array(
+						"coord" => "20, 68, 375, 580"
+					)
+				)
+			),
+			array(
+				"data" => "36",
+				"class" => "page-36",
+				"nombre" => "productos",
+				"numero" => "page-36",
+				"image" => "CATALOGO GHIA 2018 ABRIL36.jpg",
+				"url" => "img/libro",
+				"area" => "map-page-36",
+				"coords" => array(
+					array(
+						"coord" => "20, 68, 375, 580"
+					)
+				)
+			),
+			array(
+				"data" => "37",
+				"class" => "page-37",
+				"nombre" => "productos",
+				"numero" => "page-37",
+				"image" => "CATALOGO GHIA 2018 ABRIL37.jpg",
+				"url" => "img/libro",
+				"area" => "map-page-37",
+				"coords" => array(
+					array(
+						"coord" => "20, 68, 375, 580"
+					)
+				)
+			),
+			array(
+				"data" => "38",
+				"class" => "page-38",
+				"nombre" => "productos",
+				"numero" => "page-38",
+				"image" => "CATALOGO GHIA 2018 ABRIL38.jpg",
+				"url" => "img/libro",
+				"area" => "map-page-38",
+				"coords" => array(
+					array(
+						"coord" => "20, 68, 375, 580"
+					)
+				)
+			),
+			array(
+				"data" => "39",
+				"class" => "page-39",
+				"nombre" => "productos",
+				"numero" => "page-39",
+				"image" => "CATALOGO GHIA 2018 ABRIL39.jpg",
+				"url" => "img/libro",
+				"area" => "map-page-39",
+				"coords" => array(
+					array(
+						"coord" => "20, 68, 375, 580"
+					)
+				)
+			),
+			array(
+				"data" => "40",
+				"class" => "page-40",
+				"nombre" => "productos",
+				"numero" => "page-40",
+				"image" => "CATALOGO GHIA 2018 ABRIL40.jpg",
+				"url" => "img/libro",
+				"area" => "map-page-40",
+				"coords" => array(
+					array(
+						"coord" => "20, 68, 375, 580"
+					)
+				)
+			),
+			array(
+				"data" => "41",
+				"class" => "page-41",
+				"nombre" => "productos",
+				"numero" => "page-41",
+				"image" => "CATALOGO GHIA 2018 ABRIL41.jpg",
+				"url" => "img/libro",
+				"area" => "map-page-41",
+				"coords" => array(
+					array(
+						"coord" => "20, 68, 375, 580"
+					)
+				)
+			),
+			array(
+				"data" => "42",
+				"class" => "page-42",
+				"nombre" => "productos",
+				"numero" => "page-42",
+				"image" => "CATALOGO GHIA 2018 ABRIL42.jpg",
+				"url" => "img/libro",
+				"area" => "map-page-42",
+				"coords" => array(
+					array(
+						"coord" => "20, 68, 375, 580"
+					)
+				)
+			),
+			array(
+				"data" => "43",
+				"class" => "page-43",
+				"nombre" => "productos",
+				"numero" => "page-43",
+				"image" => "CATALOGO GHIA 2018 ABRIL43.jpg",
+				"url" => "img/libro",
+				"area" => "map-page-43",
+				"coords" => array(
+					array(
+						"coord" => "20, 68, 375, 580"
+					)
+				)
+			),
+			array(
+				"data" => "44",
+				"class" => "page-44",
+				"nombre" => "productos",
+				"numero" => "page-44",
+				"image" => "CATALOGO GHIA 2018 ABRIL44.jpg",
+				"url" => "img/libro",
+				"area" => "map-page-44",
 			)
 		)
 	);
@@ -352,7 +686,14 @@
 	}
 	*/
 	?>
-	<div class="box" style="display: block; overflow: hidden; overflow-y: scroll; width: 100%; height: 300px;">
+	<div class="box" style="display: block; overflow: hidden; overflow-y: scroll; width: 100%; height: 860px;">
+		<table>
+			<thead>
+				<tr>
+					<th>header</th>
+				</tr>
+			</thead>
+			<tbody>
 	<?php
 	for ( $x = 0; $x < count($json["catalogo"]); $x++) {
 		$raiz = $json["catalogo"];
@@ -363,29 +704,61 @@
 		$cat_page_image = $raiz[$x]["image"];
 		$cat_page_url = $raiz[$x]["url"];
 		$cat_page_area = $raiz[$x]["area"];
-
-		echo $cat_page_id;
-		echo "<br>";
-		echo $cat_page_class;
-		echo "<br>";
-		echo $cat_page_nombre;
-		echo "<br>";
-		echo $cat_page_numero;
-		echo "<br>";
-		echo $cat_page_image;
-		echo "<br>";
-		echo $cat_page_url;
-		echo "<br>";
-		echo $cat_page_area;
-		echo "<br>";
+		?>
+				<tr>
+					<td>
+						<?php
+						echo $cat_page_id;
+						?>
+					</td>
+					<td>
+						<?php
+						echo $cat_page_class;
+						?>
+					</td>
+					<td>
+						<?php
+						echo $cat_page_nombre;
+						?>
+					</td>
+					<td>
+						<?php
+						echo $cat_page_numero;
+						?>
+					</td>
+					<td>
+						<?php
+						echo $cat_page_image;
+						?>
+					</td>
+					<td>
+						<?php
+						echo $cat_page_url;
+						?>
+					</td>
+					<td>
+						<?php
+						echo $cat_page_area;
+						?>
+					</td>
+		<?php
 		for ($x1 = 0; $x1 < count($raiz[$x]['coords']);  $x1++) {
 			$cat_page_area_id = $raiz[$x]['coords'][$x1]['coord'];
-			echo $cat_page_area_id;
-			echo "<br>";
+			?>
+			<td>
+				<?php
+				echo $cat_page_area_id;
+				?>
+			</td>
+			<?php
 		}
-		echo "<br>";
+		?>
+		</tr>
+		<?php
 	}
 	?>
+			</tbody>
+		</table>
 	</div>
 	<?php
 	
