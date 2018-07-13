@@ -859,6 +859,7 @@
 		print_r("<pre>". $characters. "</pre>");
 		?>
 	</div>
+	<iframe src="../jsonviewer.stack.hu/index.htm" width="100%" height="300"></iframe>
 	<?php
 
 	$handler = fopen("catalogo.json", "w+");
