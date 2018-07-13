@@ -1,5 +1,7 @@
 # createJSON
-# Front End
-# Version 1 
-# Create JSON
-# Basic
+
+### Front End
+> versión 1
+```mermaid
+Label ->> Basic
+```
