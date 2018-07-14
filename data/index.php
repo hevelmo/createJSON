@@ -31,9 +31,15 @@
 				"posicion" => "right",
 				"coords" => array(
 					array(
+						"cod_fabricante" => "GAC-047",
+						"clave" => "AC-5725",
+						"vlc_id" => "13883",
 						"coord" => "23, 325, 374, 578"
 					),
 					array(
+						"cod_fabricante" => "GAC-052",
+						"clave" => "AC-5730",
+						"vlc_id" => "13883",
 						"coord" => "23, 58, 374, 311"
 					)
 				)
@@ -49,9 +55,15 @@
 				"posicion" => "left",
 				"coords" => array(
 					array(
+						"cod_fabricante" => "GAC-057",
+						"clave" => "AC-5746",
+						"vlc_id" => "13883",
 						"coord" => "23, 77, 374, 330"
 					),
 					array(
+						"cod_fabricante" => "GAC-105",
+						"clave" => "RAM-2920",
+						"vlc_id" => "15424",
 						"coord" => "23, 391, 374, 578"
 					)
 				)
@@ -67,6 +79,9 @@
 				"posicion" => "right",
 				"coords" => array(
 					array(
+						"cod_fabricante" => "GAC-005",
+						"clave" => "RELOJ-1",
+						"vlc_id" => "13882",
 						"coord" => "15, 49, 381, 581"
 					)
 				)
@@ -82,6 +97,9 @@
 				"posicion" => "left",
 				"coords" => array(
 					array(
+						"cod_fabricante" => "GAC-073",
+						"clave" => "RELOJ-13",
+						"vlc_id" => "13882",
 						"coord" => "16, 60, 387, 579"
 					)
 				)
@@ -97,6 +115,9 @@
 				"posicion" => "right",
 				"coords" => array(
 					array(
+						"cod_fabricante" => "GAC-072",
+						"clave" => "RELOJ-12",
+						"vlc_id" => "13882",
 						"coord" => "20, 66, 383, 581"
 					)
 				)
@@ -112,6 +133,9 @@
 				"posicion" => "left",
 				"coords" => array(
 					array(
+						"cod_fabricante" => "GAC-037",
+						"clave" => "RELOJ-8",
+						"vlc_id" => "13882",
 						"coord" => "16, 59, 380, 585"
 					)
 				)
@@ -127,6 +151,9 @@
 				"posicion" => "right",
 				"coords" => array(
 					array(
+						"cod_fabricante" => "GAC-006",
+						"clave" => "RELOJ-3",
+						"vlc_id" => "13882",
 						"coord" => "15, 55, 387, 469"
 					)
 				)
@@ -142,6 +169,9 @@
 				"posicion" => "left",
 				"coords" => array(
 					array(
+						"cod_fabricante" => "GAC-008",
+						"clave" => "RELOJ-6",
+						"vlc_id" => "13882",
 						"coord" => "14, 58, 383, 476"
 					)
 				)
@@ -157,6 +187,9 @@
 				"posicion" => "right",
 				"coords" => array(
 					array(
+						"cod_fabricante" => "GAC-007",
+						"clave" => "RELOJ-4",
+						"vlc_id" => "13882",
 						"coord" => "15, 57, 379, 478"
 					)
 				)
@@ -172,19 +205,34 @@
 				"posicion" => "left",
 				"coords" => array(
 					array(
-						"coord" => "213, 375, 384, 597"
+						"cod_fabricante" => "GM-001",
+						"clave" => "AC-6157",
+						"vlc_id" => "15922",
+						"coord" => "127,44,379,196"
 					),
 					array(
-						"coord" => "9, 385, 212, 597"
+						"cod_fabricante" => "GM-009",
+						"clave" => "AC-6165",
+						"vlc_id" => "15922",
+						"coord" => "20,197,206,377"
 					),
 					array(
-						"coord" => "207, 195, 392, 375"
+						"cod_fabricante" => "GM-006",
+						"clave" => "AC-6160",
+						"vlc_id" => "15922",
+						"coord" => "207,197,379,377"
 					),
 					array(
-						"coord" => "16, 194, 206, 386"
+						"cod_fabricante" => "GM-007",
+						"clave" => "AC-6163",
+						"vlc_id" => "15922",
+						"coord" => "17,387,216,577"
 					),
 					array(
-						"coord" => "129, 23, 376, 194s"
+						"cod_fabricante" => "GM-005",
+						"clave" => "AC-6162",
+						"vlc_id" => "15922",
+						"coord" => "232,378,379,591"
 					)
 				)
 			),
@@ -199,6 +247,9 @@
 				"posicion" => "right",
 				"coords" => array(
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "21, 54, 387, 581"
 					)
 				)
@@ -214,6 +265,9 @@
 				"posicion" => "left",
 				"coords" => array(
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "17, 55, 375, 586"
 					)
 				)
@@ -229,12 +283,21 @@
 				"posicion" => "right",
 				"coords" => array(
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "26, 402, 371, 592"
 					),
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "19, 210, 375, 403"
 					),
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "22, 71, 376, 208"
 					)
 				)
@@ -250,9 +313,15 @@
 				"posicion" => "left",
 				"coords" => array(
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "23, 321, 370, 589"
 					),
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "23, 67, 368, 318"
 					)
 				)
@@ -268,12 +337,21 @@
 				"posicion" => "right",
 				"coords" => array(
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "24, 422, 370, 587"
 					),
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "19, 226, 367, 422"
 					),
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "19, 60, 367, 221"
 					)
 				)
@@ -289,12 +367,21 @@
 				"posicion" => "left",
 				"coords" => array(
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "20, 434, 376, 592"
 					),
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "21, 225, 376, 430"
 					),
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "23, 68, 375, 221"
 					)
 				)
@@ -310,9 +397,15 @@
 				"posicion" => "right",
 				"coords" => array(
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "14, 319, 377, 583"
 					),
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "13, 61, 377, 315"
 					)
 				)
@@ -328,12 +421,21 @@
 				"posicion" => "left",
 				"coords" => array(
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "261, 200, 392, 493"
 					),
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "130, 220, 251, 492"
 					),
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "19, 278, 122, 485"
 					)
 				)
@@ -349,6 +451,9 @@
 				"posicion" => "right",
 				"coords" => array(
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "17, 66, 386, 585"
 					)
 				)
@@ -364,6 +469,9 @@
 				"posicion" => "left",
 				"coords" => array(
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "15, 57, 381, 579"
 					)
 				)
@@ -379,6 +487,9 @@
 				"posicion" => "right",
 				"coords" => array(
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "14, 61, 385, 575"
 					)
 				)
@@ -394,6 +505,9 @@
 				"posicion" => "left",
 				"coords" => array(
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "20, 59, 386, 588"
 					)
 				)
@@ -409,6 +523,9 @@
 				"posicion" => "right",
 				"coords" => array(
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "12, 60, 381, 582"
 					)
 				)
@@ -424,6 +541,9 @@
 				"posicion" => "left",
 				"coords" => array(
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "21, 66, 382, 576"
 					)
 				)
@@ -439,6 +559,9 @@
 				"posicion" => "right",
 				"coords" => array(
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "17, 56, 376, 583"
 					)
 				)
@@ -454,6 +577,9 @@
 				"posicion" => "left",
 				"coords" => array(
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "20, 68, 375, 580"
 					)
 				)
@@ -469,6 +595,9 @@
 				"posicion" => "right",
 				"coords" => array(
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "19, 57, 376, 579"
 					)
 				)
@@ -484,9 +613,15 @@
 				"posicion" => "left",
 				"coords" => array(
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "129, 96, 260, 363"
 					),
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "11, 97, 126, 363"
 					)
 				)
@@ -502,6 +637,9 @@
 				"posicion" => "right",
 				"coords" => array(
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "10, 47, 385, 582"
 					)
 				)
@@ -517,9 +655,15 @@
 				"posicion" => "left",
 				"coords" => array(
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "10, 205, 108, 264"
 					),
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "10, 143, 108, 205"
 					)
 				)
@@ -535,90 +679,177 @@
 				"posicion" => "right",
 				"coords" => array(
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "206, 564, 371, 572"
 					),
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "206, 556, 372, 564"
 					),
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "206, 548, 372, 556"
 					),
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "206, 541, 372, 548"
 					),
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "206, 534, 372, 541"
 					),
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "206, 527, 372, 534"
 					),
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "206, 520, 372, 527"
 					),
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "206, 512, 371, 520"
 					),
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "206, 503, 371, 512"
 					),
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "205, 477, 372, 485"
 					),
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "205, 470, 372, 477"
 					),
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "205, 463, 372, 470"
 					),
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "205, 455, 372, 463"
 					),
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "205, 448, 372, 455"
 					),
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "205, 439, 372, 448"
 					),
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "205, 431, 372, 439"
 					),
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "205, 424, 372, 431"
 					),
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "205, 417, 372, 424"
 					),
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "205, 410, 372, 417"
 					),
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "206, 384, 372, 392"
 					),
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "206, 376, 372, 384"
 					),
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "206, 369, 372, 376"
 					),
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "206, 361, 372, 369"
 					),
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "206, 354, 372, 361"
 					),
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "206, 347, 372, 354"
 					),
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "206, 339, 372, 347"
 					),
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "206, 332, 372, 339"
 					),
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "206, 324, 372, 331"
 					),
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "212, 214, 376, 303"
 					)
 				)
@@ -634,6 +865,9 @@
 				"posicion" => "left",
 				"coords" => array(
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "15, 63, 381, 584"
 					)
 				)
@@ -649,12 +883,21 @@
 				"posicion" => "right",
 				"coords" => array(
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "62, 514, 318, 538"
 					),
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "62, 538, 318, 563"
 					),
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "85, 303, 307, 363"
 					)
 				)
@@ -670,21 +913,39 @@
 				"posicion" => "left",
 				"coords" => array(
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "39, 568, 312, 585"
 					),
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "39, 550, 312, 568"
 					),
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "39, 531, 312, 550"
 					),
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "39, 512, 312, 531"
 					),
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "39, 494, 312, 512"
 					),
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "39, 477, 312, 494"
 					)
 				)
@@ -700,9 +961,15 @@
 				"posicion" => "right",
 				"coords" => array(
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "23, 62, 381, 384"
 					),
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "27, 392, 369, 584"
 					)
 				)
@@ -718,12 +985,21 @@
 				"posicion" => "left",
 				"coords" => array(
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "219, 358, 271, 383"
 					),
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "168, 358, 216, 383"
 					),
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "118, 358, 165, 383"
 					)
 				)
@@ -739,12 +1015,21 @@
 				"posicion" => "right",
 				"coords" => array(
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "150, 355, 196, 380"
 					),
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "198, 355, 248, 380"
 					),
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "251, 355, 305, 380"
 					)
 				)
@@ -760,6 +1045,9 @@
 				"posicion" => "left",
 				"coords" => array(
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "12, 63, 385, 59"
 					)
 				)
@@ -775,6 +1063,9 @@
 				"posicion" => "right",
 				"coords" => array(
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "10, 70, 385, 578"
 					)
 				)
@@ -790,36 +1081,69 @@
 				"posicion" => "left",
 				"coords" => array(
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "114, 470, 245, 591"
 					),
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "246, 469, 371, 591"
 					),
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "288, 365, 371, 469"
 					),
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "199, 365, 288, 467"
 					),
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "112, 366, 199, 467"
 					),
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "10, 410, 110, 551"
 					),
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "235, 210, 366, 364"
 					),
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "113, 219, 235, 364"
 					),
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "22, 253, 101, 407"
 					),
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "102, 112, 316, 210"
 					),
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "22, 108, 101, 252"
 					)
 				)
@@ -835,6 +1159,9 @@
 				"posicion" => "right",
 				"coords" => array(
 					array(
+						"cod_fabricante" => "",
+						"clave" => "",
+						"vlc_id" => "",
 						"coord" => "6, 64, 388, 590"
 					)
 				)
@@ -887,7 +1214,7 @@
 	}
 	*/
 	?>
-	<div class="box" style="display: block; overflow: hidden; overflow-y: scroll; width: 100%; height: 860px;">
+	<div class="box" style="display: block; overflow: hidden; overflow-y: scroll; width: 100%; height: 520px;">
 		<table>
 			<thead>
 				<tr>
