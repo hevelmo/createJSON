@@ -367,22 +367,22 @@
 				"posicion" => "left",
 				"coords" => array(
 					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
-						"coord" => "20, 434, 376, 592"
+						"cod_fabricante" => "GAC-066",
+						"clave" => "SPK-1444",
+						"vlc_id" => "15423",
+						"coord" => "18,51,375,228"
 					),
 					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
-						"coord" => "21, 225, 376, 430"
+						"cod_fabricante" => "GAC-070",
+						"clave" => "SPK-1442",
+						"vlc_id" => "15423",
+						"coord" => "18,228,375,429"
 					),
 					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
-						"coord" => "23, 68, 375, 221"
+						"cod_fabricante" => "GAC-067",
+						"clave" => "SPK-1441",
+						"vlc_id" => "15423",
+						"coord" => "18,430,375,605"
 					)
 				)
 			),
@@ -397,16 +397,16 @@
 				"posicion" => "right",
 				"coords" => array(
 					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
-						"coord" => "14, 319, 377, 583"
+						"cod_fabricante" => "GAC-062",
+						"clave" => "SPK-1448",
+						"vlc_id" => "15423",
+						"coord" => "6,64,385,306"
 					),
 					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
-						"coord" => "13, 61, 377, 315"
+						"cod_fabricante" => "GAC-064",
+						"clave" => "SPK-1449",
+						"vlc_id" => "15423",
+						"coord" => "6,310,385,584"
 					)
 				)
 			),
@@ -421,22 +421,22 @@
 				"posicion" => "left",
 				"coords" => array(
 					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
-						"coord" => "261, 200, 392, 493"
+						"cod_fabricante" => "GSP-08",
+						"clave" => "SPK-1464",
+						"vlc_id" => "15422",
+						"coord" => "10,277,129,490"
 					),
 					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
-						"coord" => "130, 220, 251, 492"
+						"cod_fabricante" => "GSP-12",
+						"clave" => "SPK-1465",
+						"vlc_id" => "15422",
+						"coord" => "130,226,250,490"
 					),
 					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
-						"coord" => "19, 278, 122, 485"
+						"cod_fabricante" => "GSP-15",
+						"clave" => "SPK-1466",
+						"vlc_id" => "15422",
+						"coord" => "252,199,391,490"
 					)
 				)
 			),
@@ -451,10 +451,10 @@
 				"posicion" => "right",
 				"coords" => array(
 					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
-						"coord" => "17, 66, 386, 585"
+						"cod_fabricante" => "T7718",
+						"clave" => "NOTGHIA-195",
+						"vlc_id" => "8701",
+						"coord" => "7,58,389,587"
 					)
 				)
 			),
@@ -469,10 +469,10 @@
 				"posicion" => "left",
 				"coords" => array(
 					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
-						"coord" => "15, 57, 381, 579"
+						"cod_fabricante" => "T107116",
+						"clave" => "NOTGHIA-199",
+						"vlc_id" => "8701",
+						"coord" => "12,37,381,586"
 					)
 				)
 			),
@@ -487,14 +487,14 @@
 				"posicion" => "right",
 				"coords" => array(
 					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
-						"coord" => "14, 61, 385, 575"
+						"cod_fabricante" => "GTKIDS7",
+						"clave" => "NOTGHIA-219",
+						"vlc_id" => "8701",
+						"coord" => "8,53,388,582"
 					)
 				)
 			),
-			array(
+			array( //pendiente
 				"data" => "24",
 				"class" => "productos",
 				"nombre" => "page-24",
@@ -508,7 +508,7 @@
 						"cod_fabricante" => "",
 						"clave" => "",
 						"vlc_id" => "",
-						"coord" => "20, 59, 386, 588"
+						"coord" => "6,45,387,591"
 					)
 				)
 			),
@@ -523,10 +523,10 @@
 				"posicion" => "right",
 				"coords" => array(
 					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
-						"coord" => "12, 60, 381, 582"
+						"cod_fabricante" => "LX14432CPH",
+						"clave" => "NOTGHIA-201",
+						"vlc_id" => "6443",
+						"coord" => "9,54,381,582"
 					)
 				)
 			),
@@ -541,10 +541,10 @@
 				"posicion" => "left",
 				"coords" => array(
 					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
-						"coord" => "21, 66, 382, 576"
+						"cod_fabricante" => "LS13432PMH",
+						"clave" => "NOTGHIA-211",
+						"vlc_id" => "6443",
+						"coord" => "9,54,382,584"
 					)
 				)
 			),
@@ -559,10 +559,10 @@
 				"posicion" => "right",
 				"coords" => array(
 					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
-						"coord" => "17, 56, 376, 583"
+						"cod_fabricante" => "CAM43211",
+						"clave" => "NOTGHIA-189",
+						"vlc_id" => "13462",
+						"coord" => "11,54,381,581"
 					)
 				)
 			),
@@ -577,10 +577,10 @@
 				"posicion" => "left",
 				"coords" => array(
 					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
-						"coord" => "20, 68, 375, 580"
+						"cod_fabricante" => "4104232G",
+						"clave" => "NOTGHIA-186",
+						"vlc_id" => "13462",
+						"coord" => "13,61,382,586"
 					)
 				)
 			),
@@ -595,10 +595,10 @@
 				"posicion" => "right",
 				"coords" => array(
 					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
-						"coord" => "19, 57, 376, 579"
+						"cod_fabricante" => "4114432S",
+						"clave" => "NOTGHIA-187",
+						"vlc_id" => "13462",
+						"coord" => "13,54,380,579"
 					)
 				)
 			),
@@ -613,16 +613,16 @@
 				"posicion" => "left",
 				"coords" => array(
 					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
-						"coord" => "129, 96, 260, 363"
+						"cod_fabricante" => "INTEL CELERON",
+						"clave" => "PCGHIA-2318",
+						"vlc_id" => "6441",
+						"coord" => "6,109,133,391"
 					),
 					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
-						"coord" => "11, 97, 126, 363"
+						"cod_fabricante" => "AMD RYZEN",
+						"clave" => "PCGHIA-1234",
+						"vlc_id" => "6441",
+						"coord" => "140,109,256,391"
 					)
 				)
 			),
@@ -637,10 +637,10 @@
 				"posicion" => "right",
 				"coords" => array(
 					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
-						"coord" => "10, 47, 385, 582"
+						"cod_fabricante" => "MG2016",
+						"clave" => "MNLG-12",
+						"vlc_id" => "6442",
+						"coord" => "10,50,381,577"
 					)
 				)
 			),
@@ -655,15 +655,15 @@
 				"posicion" => "left",
 				"coords" => array(
 					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
+						"cod_fabricante" => "MG2217",
+						"clave" => "MNLG-15",
+						"vlc_id" => "6442",
 						"coord" => "10, 205, 108, 264"
 					),
 					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
+						"cod_fabricante" => "MG2417",
+						"clave" => "MNLG-16",
+						"vlc_id" => "6442",
 						"coord" => "10, 143, 108, 205"
 					)
 				)
@@ -679,177 +679,177 @@
 				"posicion" => "right",
 				"coords" => array(
 					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
-						"coord" => "206, 564, 371, 572"
+						"cod_fabricante" => "GCN-001",
+						"clave" => "AC-5993",
+						"vlc_id" => "15262",
+						"coord" => "212,214,370,301"
 					),
 					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
-						"coord" => "206, 556, 372, 564"
+						"cod_fabricante" => "GCB-001",
+						"clave" => "CB-1140",
+						"vlc_id" => "15262",
+						"coord" => "207,324,369,331"
 					),
 					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
+						"cod_fabricante" => "GCB-002",
+						"clave" => "CB-1141",
+						"vlc_id" => "15262",
 						"coord" => "206, 548, 372, 556"
 					),
 					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
+						"cod_fabricante" => "GCB-031",
+						"clave" => "CB-1211",
+						"vlc_id" => "15262",
 						"coord" => "206, 541, 372, 548"
 					),
 					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
+						"cod_fabricante" => "GCB-003",
+						"clave" => "CB-1142",
+						"vlc_id" => "15262",
 						"coord" => "206, 534, 372, 541"
 					),
 					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
+						"cod_fabricante" => "GCB-004",
+						"clave" => "CB-1145",
+						"vlc_id" => "15262",
 						"coord" => "206, 527, 372, 534"
 					),
 					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
+						"cod_fabricante" => "GCB-005",
+						"clave" => "CB-1143",
+						"vlc_id" => "15262",
 						"coord" => "206, 520, 372, 527"
 					),
 					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
+						"cod_fabricante" => "GCB-006",
+						"clave" => "CB-1144",
+						"vlc_id" => "15262",
 						"coord" => "206, 512, 371, 520"
 					),
 					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
+						"cod_fabricante" => "GCB-007",
+						"clave" => "CB-1146",
+						"vlc_id" => "15262",
 						"coord" => "206, 503, 371, 512"
 					),
 					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
+						"cod_fabricante" => "GCB-008",
+						"clave" => "CB-1147",
+						"vlc_id" => "15262",
 						"coord" => "205, 477, 372, 485"
 					),
 					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
+						"cod_fabricante" => "GCB-010",
+						"clave" => "CB-1191",
+						"vlc_id" => "15262",
 						"coord" => "205, 470, 372, 477"
 					),
 					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
+						"cod_fabricante" => "GCB-009",
+						"clave" => "CB-1194",
+						"vlc_id" => "15262",
 						"coord" => "205, 463, 372, 470"
 					),
 					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
+						"cod_fabricante" => "GCB-011",
+						"clave" => "CB-1184",
+						"vlc_id" => "15262",
 						"coord" => "205, 455, 372, 463"
 					),
 					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
+						"cod_fabricante" => "GCB-012",
+						"clave" => "CB-1190",
+						"vlc_id" => "15262",
 						"coord" => "205, 448, 372, 455"
 					),
 					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
+						"cod_fabricante" => "GCB-014",
+						"clave" => "CB-1183",
+						"vlc_id" => "15262",
 						"coord" => "205, 439, 372, 448"
 					),
 					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
+						"cod_fabricante" => "GCB-013",
+						"clave" => "CB-1187",
+						"vlc_id" => "15262",
 						"coord" => "205, 431, 372, 439"
 					),
 					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
+						"cod_fabricante" => "GCB-015",
+						"clave" => "CB-1185",
+						"vlc_id" => "15262",
 						"coord" => "205, 424, 372, 431"
 					),
 					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
+						"cod_fabricante" => "GCB-016",
+						"clave" => "CB-1186",
+						"vlc_id" => "15262",
 						"coord" => "205, 417, 372, 424"
 					),
 					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
+						"cod_fabricante" => "GCB-018",
+						"clave" => "CB-1189",
+						"vlc_id" => "15262",
 						"coord" => "205, 410, 372, 417"
 					),
 					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
+						"cod_fabricante" => "GCB-017",
+						"clave" => "CB-1196",
+						"vlc_id" => "15262",
 						"coord" => "206, 384, 372, 392"
 					),
 					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
+						"cod_fabricante" => "GCB-019",
+						"clave" => "CB-1193",
+						"vlc_id" => "15262",
 						"coord" => "206, 376, 372, 384"
 					),
 					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
+						"cod_fabricante" => "GCB-020",
+						"clave" => "CB-1188",
+						"vlc_id" => "15262",
 						"coord" => "206, 369, 372, 376"
 					),
 					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
+						"cod_fabricante" => "GCB-022",
+						"clave" => "CB-1197",
+						"vlc_id" => "15262",
 						"coord" => "206, 361, 372, 369"
 					),
 					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
+						"cod_fabricante" => "GCB-023",
+						"clave" => "CB-1192",
+						"vlc_id" => "15262",
 						"coord" => "206, 354, 372, 361"
 					),
 					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
+						"cod_fabricante" => "GCB-024",
+						"clave" => "CB-1225",
+						"vlc_id" => "15262",
 						"coord" => "206, 347, 372, 354"
 					),
 					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
+						"cod_fabricante" => "GCB-025",
+						"clave" => "CB-1225",
+						"vlc_id" => "15262",
 						"coord" => "206, 339, 372, 347"
 					),
 					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
+						"cod_fabricante" => "GCB-026",
+						"clave" => "CB-1222",
+						"vlc_id" => "15262",
 						"coord" => "206, 332, 372, 339"
 					),
 					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
+						"cod_fabricante" => "GCB-027",
+						"clave" => "CB-1224",
+						"vlc_id" => "15262",
 						"coord" => "206, 324, 372, 331"
 					),
 					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
+						"cod_fabricante" => "GCB-029",
+						"clave" => "CB-1219",
+						"vlc_id" => "15262",
 						"coord" => "212, 214, 376, 303"
 					)
 				)
@@ -865,10 +865,10 @@
 				"posicion" => "left",
 				"coords" => array(
 					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
-						"coord" => "15, 63, 381, 584"
+						"cod_fabricante" => "GCV-002",
+						"clave" => "CV-795",
+						"vlc_id" => "13884",
+						"coord" => "14,60,378,593"
 					)
 				)
 			),
@@ -883,22 +883,22 @@
 				"posicion" => "right",
 				"coords" => array(
 					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
-						"coord" => "62, 514, 318, 538"
+						"cod_fabricante" => "GCV-001",
+						"clave" => "CV-796",
+						"vlc_id" => "13884",
+						"coord" => "85,312,305,358"
 					),
 					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
-						"coord" => "62, 538, 318, 563"
+						"cod_fabricante" => "GDV-006",
+						"clave" => "DVR-139",
+						"vlc_id" => "13884",
+						"coord" => "63,512,318,535"
 					),
 					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
-						"coord" => "85, 303, 307, 363"
+						"cod_fabricante" => "GDV-005",
+						"clave" => "DVR-144",
+						"vlc_id" => "13884",
+						"coord" => "63,536,318,560"
 					)
 				)
 			),
@@ -913,40 +913,40 @@
 				"posicion" => "left",
 				"coords" => array(
 					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
-						"coord" => "39, 568, 312, 585"
+						"cod_fabricante" => "GDV-001",
+						"clave" => "DVR-143",
+						"vlc_id" => "13884",
+						"coord" => "39, 477, 312, 494"
 					),
 					array(
-						"cod_fabricante" => "",
+						"cod_fabricante" => "GDV-002",
 						"clave" => "",
-						"vlc_id" => "",
-						"coord" => "39, 550, 312, 568"
-					),
-					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
-						"coord" => "39, 531, 312, 550"
-					),
-					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
-						"coord" => "39, 512, 312, 531"
-					),
-					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
+						"vlc_id" => "13884",
 						"coord" => "39, 494, 312, 512"
 					),
 					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
-						"coord" => "39, 477, 312, 494"
+						"cod_fabricante" => "GDV-003",
+						"clave" => "DVR-140DVR-142",
+						"vlc_id" => "13884",
+						"coord" => "39, 512, 312, 531"
+					),
+					array(
+						"cod_fabricante" => "GDV-004",
+						"clave" => "DVR-141",
+						"vlc_id" => "13884",
+						"coord" => "39, 531, 312, 550"
+					),
+					array(
+						"cod_fabricante" => "GDV-007",
+						"clave" => "DVR-163",
+						"vlc_id" => "13884",
+						"coord" => "39, 550, 312, 568"
+					),
+					array(
+						"cod_fabricante" => "GDV-008",
+						"clave" => "DVR-162",
+						"vlc_id" => "13884",
+						"coord" => "39, 568, 312, 585"
 					)
 				)
 			),
@@ -961,15 +961,15 @@
 				"posicion" => "right",
 				"coords" => array(
 					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
+						"cod_fabricante" => "GAL-001",
+						"clave" => "AL-14",
+						"vlc_id" => "13884",
 						"coord" => "23, 62, 381, 384"
 					),
 					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
+						"cod_fabricante" => "GAL-002",
+						"clave" => "AL-18",
+						"vlc_id" => "13884",
 						"coord" => "27, 392, 369, 584"
 					)
 				)
@@ -985,22 +985,22 @@
 				"posicion" => "left",
 				"coords" => array(
 					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
-						"coord" => "219, 358, 271, 383"
+						"cod_fabricante" => "G24DHDX7",
+						"clave" => "TV-514",
+						"vlc_id" => "13342",
+						"coord" => "118, 358, 165, 383"
 					),
 					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
+						"cod_fabricante" => "G32DHDX7",
+						"clave" => "TV-515",
+						"vlc_id" => "13342",
 						"coord" => "168, 358, 216, 383"
 					),
 					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
-						"coord" => "118, 358, 165, 383"
+						"cod_fabricante" => "G43DFHDS7",
+						"clave" => "TV-534",
+						"vlc_id" => "13342",
+						"coord" => "219, 358, 271, 383"
 					)
 				)
 			),
@@ -1015,22 +1015,22 @@
 				"posicion" => "right",
 				"coords" => array(
 					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
+						"cod_fabricante" => "G32DHDS7",
+						"clave" => "TV-513",
+						"vlc_id" => "13342",
 						"coord" => "150, 355, 196, 380"
 					),
 					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
+						"cod_fabricante" => "G43DFHDS7",
+						"clave" => "TV-534",
+						"vlc_id" => "13342",
 						"coord" => "198, 355, 248, 380"
 					),
 					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
-						"coord" => "251, 355, 305, 380"
+						"cod_fabricante" => "G49DFHDS7",
+						"clave" => "TV-520",
+						"vlc_id" => "13342",
+						"coord" => "150, 355, 196, 380"
 					)
 				)
 			),
@@ -1045,10 +1045,10 @@
 				"posicion" => "left",
 				"coords" => array(
 					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
-						"coord" => "12, 63, 385, 59"
+						"cod_fabricante" => "GAC-002",
+						"clave" => "AC-4466",
+						"vlc_id" => "13324",
+						"coord" => "12, 59, 385, 592"
 					)
 				)
 			),
@@ -1063,9 +1063,9 @@
 				"posicion" => "right",
 				"coords" => array(
 					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
+						"cod_fabricante" => "GAC-009",
+						"clave" => "AC-4925",
+						"vlc_id" => "13326",
 						"coord" => "10, 70, 385, 578"
 					)
 				)
@@ -1081,70 +1081,52 @@
 				"posicion" => "left",
 				"coords" => array(
 					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
-						"coord" => "114, 470, 245, 591"
+						"cod_fabricante" => "SPR-1",
+						"clave" => "AC-3432",
+						"vlc_id" => "9481",
+						"coord" => "22, 108, 101, 252"
 					),
 					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
-						"coord" => "246, 469, 371, 591"
-					),
-					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
-						"coord" => "288, 365, 371, 469"
-					),
-					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
-						"coord" => "199, 365, 288, 467"
-					),
-					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
-						"coord" => "112, 366, 199, 467"
-					),
-					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
-						"coord" => "10, 410, 110, 551"
-					),
-					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
-						"coord" => "235, 210, 366, 364"
-					),
-					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
-						"coord" => "113, 219, 235, 364"
-					),
-					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
-						"coord" => "22, 253, 101, 407"
-					),
-					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
+						"cod_fabricante" => "STV-13",
+						"clave" => "AC-5778",
+						"vlc_id" => "9481",
 						"coord" => "102, 112, 316, 210"
 					),
 					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
-						"coord" => "22, 108, 101, 252"
+						"cod_fabricante" => "SPR-3",
+						"clave" => "AC-3434",
+						"vlc_id" => "9481",
+						"coord" => "22, 253, 101, 407"
+					),
+					array(
+						"cod_fabricante" => "STV-14",
+						"clave" => "AC-5777",
+						"vlc_id" => "9481",
+						"coord" => "113, 219, 235, 364"
+					),
+					array(
+						"cod_fabricante" => "STV-15",
+						"clave" => "AC-5776",
+						"vlc_id" => "9481",
+						"coord" => "236, 209, 367, 363"
+					),
+					array(
+						"cod_fabricante" => "	STV-12",
+						"clave" => "AC-5195",
+						"vlc_id" => "9481",
+						"coord" => "10, 410, 110, 551"
+					),
+					array(
+						"cod_fabricante" => "STV-6",
+						"clave" => "AC-3451",
+						"vlc_id" => "9481",
+						"coord" => "112, 366, 199, 467"
+					),
+					array(
+						"cod_fabricante" => "STV-9",
+						"clave" => "AC-3454",
+						"vlc_id" => "9481",
+						"coord" => "199, 365, 288, 467"
 					)
 				)
 			),
@@ -1159,9 +1141,9 @@
 				"posicion" => "right",
 				"coords" => array(
 					array(
-						"cod_fabricante" => "",
-						"clave" => "",
-						"vlc_id" => "",
+						"cod_fabricante" => "GAC-001",
+						"clave" => "AC-4552",
+						"vlc_id" => "13327",
 						"coord" => "6, 64, 388, 590"
 					)
 				)
@@ -1278,10 +1260,28 @@
 		<?php
 		for ($x1 = 0; $x1 < count($raiz[$x]['coords']);  $x1++) {
 			$cat_page_area_id = $raiz[$x]['coords'][$x1]['coord'];
+			$cat_page_cod_fabricante = $raiz[$x]['coords'][$x1]['cod_fabricante'];
+			$cat_page_clave = $raiz[$x]['coords'][$x1]['clave'];
+			$cat_page_vlc_id = $raiz[$x]['coords'][$x1]['vlc_id'];
 			?>
 			<td>
 				<?php
 				echo $cat_page_area_id;
+				?>
+			</td>
+			<td>
+				<?php
+				echo $cat_page_cod_fabricante;
+				?>
+			</td>		
+			<td>
+				<?php
+				echo $cat_page_clave;
+				?>
+			</td>
+			<td>
+				<?php
+				echo $cat_page_vlc_id;
 				?>
 			</td>
 			<?php
