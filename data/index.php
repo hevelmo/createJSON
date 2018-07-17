@@ -1,4 +1,5 @@
 <?php
+	//require "formDataJSON.php";
 	require "json-file-decode.class.php";
 	$catalogo = array(
 		"catalogo" => array(
@@ -29,18 +30,24 @@
 				"url" => "img/libro",
 				"area" => "map-page-03",
 				"posicion" => "right",
-				"coords" => array(
+				"float" => array(
 					array(
+						"ide" => "1",
 						"cod_fabricante" => "GAC-047",
 						"clave" => "AC-5725",
 						"vlc_id" => "13883",
-						"coord" => "23, 325, 374, 578"
+						"pos" => "left",
+						"left" => "76%",
+						"top" => "43%"
 					),
 					array(
+						"ide" => "2",
 						"cod_fabricante" => "GAC-052",
 						"clave" => "AC-5730",
 						"vlc_id" => "13883",
-						"coord" => "23, 58, 374, 311"
+						"pos" => "right",
+						"left" => "13%",
+						"top" => "80%"
 					)
 				)
 			),
@@ -53,18 +60,24 @@
 				"url" => "img/libro",
 				"area" => "map-page-04",
 				"posicion" => "left",
-				"coords" => array(
+				"float" => array(
 					array(
+						"ide" => "1",
 						"cod_fabricante" => "GAC-057",
 						"clave" => "AC-5746",
 						"vlc_id" => "13883",
-						"coord" => "23, 77, 374, 330"
+						"pos" => "left",
+						"left" => "75%",
+						"top" => "47%"
 					),
 					array(
+						"ide" => "2",
 						"cod_fabricante" => "GAC-105",
 						"clave" => "RAM-2920",
 						"vlc_id" => "15424",
-						"coord" => "23, 391, 374, 578"
+						"pos" => "left",
+						"left" => "65%",
+						"top" => "80%"
 					)
 				)
 			),
@@ -77,12 +90,15 @@
 				"url" => "img/libro",
 				"area" => "map-page-05",
 				"posicion" => "right",
-				"coords" => array(
+				"float" => array(
 					array(
+						"ide" => "1",
 						"cod_fabricante" => "GAC-005",
 						"clave" => "RELOJ-1",
 						"vlc_id" => "13882",
-						"coord" => "15, 49, 381, 581"
+						"pos" => "down",
+						"left" => "46%",
+						"top" => "50%"
 					)
 				)
 			),
@@ -95,12 +111,15 @@
 				"url" => "img/libro",
 				"area" => "map-page-06",
 				"posicion" => "left",
-				"coords" => array(
+				"float" => array(
 					array(
+						"ide" => "1",
 						"cod_fabricante" => "GAC-073",
 						"clave" => "RELOJ-13",
 						"vlc_id" => "13882",
-						"coord" => "16, 60, 387, 579"
+						"pos" => "down",
+						"left" => "70%",
+						"top" => "30%"
 					)
 				)
 			),
@@ -113,12 +132,15 @@
 				"url" => "img/libro",
 				"area" => "map-page-07",
 				"posicion" => "right",
-				"coords" => array(
+				"float" => array(
 					array(
+						"ide" => "1",
 						"cod_fabricante" => "GAC-072",
 						"clave" => "RELOJ-12",
 						"vlc_id" => "13882",
-						"coord" => "20, 66, 383, 581"
+						"pos" => "down",
+						"left" => "70%",
+						"top" => "50%"
 					)
 				)
 			),
@@ -131,12 +153,15 @@
 				"url" => "img/libro",
 				"area" => "map-page-08",
 				"posicion" => "left",
-				"coords" => array(
+				"float" => array(
 					array(
+						"ide" => "1",
 						"cod_fabricante" => "GAC-037",
 						"clave" => "RELOJ-8",
 						"vlc_id" => "13882",
-						"coord" => "16, 59, 380, 585"
+						"pos" => "down",
+						"left" => "30%",
+						"top" => "49%"
 					)
 				)
 			),
@@ -149,12 +174,15 @@
 				"url" => "img/libro",
 				"area" => "map-page-09",
 				"posicion" => "right",
-				"coords" => array(
+				"float" => array(
 					array(
+						"ide" => "1",
 						"cod_fabricante" => "GAC-006",
 						"clave" => "RELOJ-3",
 						"vlc_id" => "13882",
-						"coord" => "15, 55, 387, 469"
+						"pos" => "left",
+						"left" => "47%",
+						"top" => "60%"
 					)
 				)
 			),
@@ -167,12 +195,15 @@
 				"url" => "img/libro",
 				"area" => "map-page-10",
 				"posicion" => "left",
-				"coords" => array(
+				"float" => array(
 					array(
+						"ide" => "1",
 						"cod_fabricante" => "GAC-008",
 						"clave" => "RELOJ-6",
 						"vlc_id" => "13882",
-						"coord" => "14, 58, 383, 476"
+						"pos" => "right",
+						"left" => "32%",
+						"top" => "56%"
 					)
 				)
 			),
@@ -185,12 +216,15 @@
 				"url" => "img/libro",
 				"area" => "map-page-11",
 				"posicion" => "right",
-				"coords" => array(
+				"float" => array(
 					array(
+						"ide" => "1",
 						"cod_fabricante" => "GAC-007",
 						"clave" => "RELOJ-4",
 						"vlc_id" => "13882",
-						"coord" => "15, 57, 379, 478"
+						"pos" => "right",
+						"left" => "15%",
+						"top" => "45%"
 					)
 				)
 			),
@@ -203,36 +237,51 @@
 				"url" => "img/libro",
 				"area" => "map-page-12",
 				"posicion" => "left",
-				"coords" => array(
+				"float" => array(
 					array(
+						"ide" => "1",
 						"cod_fabricante" => "GM-001",
 						"clave" => "AC-6157",
 						"vlc_id" => "15922",
-						"coord" => "127,44,379,196"
+						"pos" => "up",
+						"left" => "47%",
+						"top" => "31%"
 					),
 					array(
+						"ide" => "2",
 						"cod_fabricante" => "GM-009",
 						"clave" => "AC-6165",
 						"vlc_id" => "15922",
-						"coord" => "20,197,206,377"
+						"pos" => "up",
+						"left" => "24%",
+						"top" => "57%"
 					),
 					array(
+						"ide" => "3",
 						"cod_fabricante" => "GM-006",
 						"clave" => "AC-6160",
 						"vlc_id" => "15922",
-						"coord" => "207,197,379,377"
+						"pos" => "up",
+						"left" => "72%",
+						"top" => "54%"
 					),
 					array(
+						"ide" => "4",
 						"cod_fabricante" => "GM-007",
 						"clave" => "AC-6163",
 						"vlc_id" => "15922",
-						"coord" => "17,387,216,577"
+						"pos" => "right",
+						"left" => "37%",
+						"top" => "84%"
 					),
 					array(
+						"ide" => "5",
 						"cod_fabricante" => "GM-005",
 						"clave" => "AC-6162",
 						"vlc_id" => "15922",
-						"coord" => "232,378,379,591"
+						"pos" => "up",
+						"left" => "70%",
+						"top" => "79%"
 					)
 				)
 			),
@@ -245,12 +294,15 @@
 				"url" => "img/libro",
 				"area" => "map-page-13",
 				"posicion" => "right",
-				"coords" => array(
+				"float" => array(
 					array(
+						"ide" => "1",
 						"cod_fabricante" => "SP55718",
 						"clave" => "CEL-109",
 						"vlc_id" => "13325",
-						"coord" => "21, 54, 387, 581"
+						"pos" => "right",
+						"left" => "20%",
+						"top" => "68%"
 					)
 				)
 			),
@@ -263,12 +315,15 @@
 				"url" => "img/libro",
 				"area" => "map-page-14",
 				"posicion" => "left",
-				"coords" => array(
+				"float" => array(
 					array(
+						"ide" => "1",
 						"cod_fabricante" => "FP17",
 						"clave" => "CEL-115",
 						"vlc_id" => "13325",
-						"coord" => "17, 55, 375, 586"
+						"pos" => "left",
+						"left" => "50%",
+						"top" => "53%"
 					)
 				)
 			),
@@ -281,24 +336,33 @@
 				"url" => "img/libro",
 				"area" => "map-page-15",
 				"posicion" => "right",
-				"coords" => array(
+				"float" => array(
 					array(
+						"ide" => "1",
 						"cod_fabricante" => "QG10",
 						"clave" => "CEL-112",
 						"vlc_id" => "13325",
-						"coord" => "20,65,363,212"
+						"pos" => "up",
+						"left" => "62%",
+						"top" => "34%"
 					),
 					array(
+						"ide" => "2",
 						"cod_fabricante" => "Q01A",
 						"clave" => "CEL-117",
 						"vlc_id" => "13325",
-						"coord" => "20,214,363,401"
+						"pos" => "up",
+						"left" => "27%",
+						"top" => "61%"
 					),
 					array(
+						"ide" => "3",
 						"cod_fabricante" => "Q05A",
 						"clave" => "CEL-123",
 						"vlc_id" => "13325",
-						"coord" => "21,404,364,581"
+						"pos" => "up",
+						"left" => "66%",
+						"top" => "86%"
 					)
 				)
 			),
@@ -311,18 +375,24 @@
 				"url" => "img/libro",
 				"area" => "map-page-16",
 				"posicion" => "left",
-				"coords" => array(
+				"float" => array(
 					array(
+						"ide" => "1",
 						"cod_fabricante" => "QS701",
 						"clave" => "CEL-126",
 						"vlc_id" => "13325",
-						"coord" => "24,72,366,314"
+						"pos" => "up",
+						"left" => "30%",
+						"top" => "45%"
 					),
 					array(
+						"ide" => "2",
 						"cod_fabricante" => "QS702",
 						"clave" => "CEL-119",
 						"vlc_id" => "13325",
-						"coord" => "24,320,366,578"
+						"pos" => "up",
+						"left" => "65%",
+						"top" => "83%"
 					)
 				)
 			),
@@ -335,24 +405,33 @@
 				"url" => "img/libro",
 				"area" => "map-page-17",
 				"posicion" => "right",
-				"coords" => array(
+				"float" => array(
 					array(
+						"ide" => "1",
 						"cod_fabricante" => "GAC-040",
 						"clave" => "SPK-1421",
 						"vlc_id" => "15423",
-						"coord" => "21,54,372,225"
+						"pos" => "left",
+						"left" => "75%",
+						"top" => "33%"
 					),
 					array(
+						"ide" => "2",
 						"cod_fabricante" => "GAC-041",
 						"clave" => "SPK-1419",
 						"vlc_id" => "15423",
-						"coord" => "22,230,373,420"
+						"pos" => "up",
+						"left" => "39%",
+						"top" => "55%"
 					),
 					array(
+						"ide" => "3",
 						"cod_fabricante" => "GAC-043",
 						"clave" => "SPK-1418",
 						"vlc_id" => "15423",
-						"coord" => "22,422,373,586"
+						"pos" => "left",
+						"left" => "71%",
+						"top" => "71%"
 					)
 				)
 			),
@@ -365,24 +444,33 @@
 				"url" => "img/libro",
 				"area" => "map-page-18",
 				"posicion" => "left",
-				"coords" => array(
+				"float" => array(
 					array(
+						"ide" => "1",
 						"cod_fabricante" => "GAC-066",
 						"clave" => "SPK-1444",
 						"vlc_id" => "15423",
-						"coord" => "18,51,375,228"
+						"pos" => "left",
+						"left" => "72%",
+						"top" => "19%"
 					),
 					array(
+						"ide" => "2",
 						"cod_fabricante" => "GAC-070",
 						"clave" => "SPK-1442",
 						"vlc_id" => "15423",
-						"coord" => "18,228,375,429"
+						"pos" => "left",
+						"left" => "56%",
+						"top" => "61%"
 					),
 					array(
+						"ide" => "3",
 						"cod_fabricante" => "GAC-067",
 						"clave" => "SPK-1441",
 						"vlc_id" => "15423",
-						"coord" => "18,430,375,605"
+						"pos" => "up",
+						"left" => "35%",
+						"top" => "85%"
 					)
 				)
 			),
@@ -395,18 +483,24 @@
 				"url" => "img/libro",
 				"area" => "map-page-19",
 				"posicion" => "right",
-				"coords" => array(
+				"float" => array(
 					array(
+						"ide" => "1",
 						"cod_fabricante" => "GAC-062",
 						"clave" => "SPK-1448",
 						"vlc_id" => "15423",
-						"coord" => "6,64,385,306"
+						"pos" => "up",
+						"left" => "42%",
+						"top" => "39%"
 					),
 					array(
+						"ide" => "2",
 						"cod_fabricante" => "GAC-064",
 						"clave" => "SPK-1449",
 						"vlc_id" => "15423",
-						"coord" => "6,310,385,584"
+						"pos" => "down",
+						"left" => "63%",
+						"top" => "55%"
 					)
 				)
 			),
@@ -419,24 +513,33 @@
 				"url" => "img/libro",
 				"area" => "map-page-20",
 				"posicion" => "left",
-				"coords" => array(
+				"float" => array(
 					array(
+						"ide" => "1",
 						"cod_fabricante" => "GSP-08",
 						"clave" => "SPK-1464",
 						"vlc_id" => "15422",
-						"coord" => "10,277,129,490"
+						"pos" => "right",
+						"left" => "44%",
+						"top" => "46%"
 					),
 					array(
+						"ide" => "2",
 						"cod_fabricante" => "GSP-12",
 						"clave" => "SPK-1465",
 						"vlc_id" => "15422",
-						"coord" => "130,226,250,490"
+						"pos" => "right",
+						"left" => "36%",
+						"top" => "67%"
 					),
 					array(
+						"ide" => "3",
 						"cod_fabricante" => "GSP-15",
 						"clave" => "SPK-1466",
 						"vlc_id" => "15422",
-						"coord" => "252,199,391,490"
+						"pos" => "left",
+						"left" => "80%",
+						"top" => "68%"
 					)
 				)
 			),
@@ -449,12 +552,15 @@
 				"url" => "img/libro",
 				"area" => "map-page-21",
 				"posicion" => "right",
-				"coords" => array(
+				"float" => array(
 					array(
+						"ide" => "1",
 						"cod_fabricante" => "T7718",
 						"clave" => "NOTGHIA-195",
 						"vlc_id" => "8701",
-						"coord" => "7,58,389,587"
+						"pos" => "up",
+						"left" => "21%",
+						"top" => "42%"
 					)
 				)
 			),
@@ -467,12 +573,15 @@
 				"url" => "img/libro",
 				"area" => "map-page-22",
 				"posicion" => "left",
-				"coords" => array(
+				"float" => array(
 					array(
+						"ide" => "1",
 						"cod_fabricante" => "T107116",
 						"clave" => "NOTGHIA-199",
 						"vlc_id" => "8701",
-						"coord" => "12,37,381,586"
+						"pos" => "down",
+						"left" => "29%",
+						"top" => "52%"
 					)
 				)
 			),
@@ -485,12 +594,15 @@
 				"url" => "img/libro",
 				"area" => "map-page-23",
 				"posicion" => "right",
-				"coords" => array(
+				"float" => array(
 					array(
+						"ide" => "1",
 						"cod_fabricante" => "GTKIDS7",
 						"clave" => "NOTGHIA-219",
 						"vlc_id" => "8701",
-						"coord" => "8,53,388,582"
+						"pos" => "right",
+						"left" => "37%",
+						"top" => "52%"
 					)
 				)
 			),
@@ -503,13 +615,16 @@
 				"url" => "img/libro",
 				"area" => "map-page-24",
 				"posicion" => "left",
-				"coords" => array(
+				"float" => array(/*
 					array(
+						"ide" => "",
 						"cod_fabricante" => "",
 						"clave" => "",
 						"vlc_id" => "",
-						"coord" => "6,45,387,591"
-					)
+						"pos" => "",
+						"left" => "",
+						"top" => ""
+					)*/
 				)
 			),
 			array(
@@ -521,12 +636,15 @@
 				"url" => "img/libro",
 				"area" => "map-page-25",
 				"posicion" => "right",
-				"coords" => array(
+				"float" => array(
 					array(
+						"ide" => "1",
 						"cod_fabricante" => "LX14432CPH",
 						"clave" => "NOTGHIA-201",
 						"vlc_id" => "6443",
-						"coord" => "9,54,381,582"
+						"pos" => "down",
+						"left" => "46%",
+						"top" => "16%"
 					)
 				)
 			),
@@ -539,12 +657,15 @@
 				"url" => "img/libro",
 				"area" => "map-page-26",
 				"posicion" => "left",
-				"coords" => array(
+				"float" => array(
 					array(
+						"ide" => "1",
 						"cod_fabricante" => "LS13432PMH",
 						"clave" => "NOTGHIA-211",
 						"vlc_id" => "6443",
-						"coord" => "9,54,382,584"
+						"pos" => "up",
+						"left" => "18%",
+						"top" => "50%"
 					)
 				)
 			),
@@ -557,12 +678,15 @@
 				"url" => "img/libro",
 				"area" => "map-page-27",
 				"posicion" => "right",
-				"coords" => array(
+				"float" => array(
 					array(
+						"ide" => "1",
 						"cod_fabricante" => "CAM43211",
 						"clave" => "NOTGHIA-189",
 						"vlc_id" => "13462",
-						"coord" => "11,54,381,581"
+						"pos" => "right",
+						"left" => "55%",
+						"top" => "15%"
 					)
 				)
 			),
@@ -575,12 +699,15 @@
 				"url" => "img/libro",
 				"area" => "map-page-28",
 				"posicion" => "left",
-				"coords" => array(
+				"float" => array(
 					array(
+						"ide" => "1",
 						"cod_fabricante" => "4104232G",
 						"clave" => "NOTGHIA-186",
 						"vlc_id" => "13462",
-						"coord" => "13,61,382,586"
+						"pos" => "right",
+						"left" => "18%",
+						"top" => "52%"
 					)
 				)
 			),
@@ -593,12 +720,15 @@
 				"url" => "img/libro",
 				"area" => "map-page-29",
 				"posicion" => "right",
-				"coords" => array(
+				"float" => array(
 					array(
+						"ide" => "1",
 						"cod_fabricante" => "4114432S",
 						"clave" => "NOTGHIA-187",
 						"vlc_id" => "13462",
-						"coord" => "13,54,380,579"
+						"pos" => "up",
+						"left" => "37%",
+						"top" => "46%"
 					)
 				)
 			),
@@ -611,18 +741,24 @@
 				"url" => "img/libro",
 				"area" => "map-page-30",
 				"posicion" => "left",
-				"coords" => array(
+				"float" => array(
 					array(
+						"ide" => "1",
 						"cod_fabricante" => "INTEL CELERON",
 						"clave" => "PCGHIA-2318",
 						"vlc_id" => "6441",
-						"coord" => "6,109,133,391"
+						"pos" => "down",
+						"left" => "17%",
+						"top" => "26%"
 					),
 					array(
+						"ide" => "2",
 						"cod_fabricante" => "AMD RYZEN",
 						"clave" => "PCGHIA-1234",
 						"vlc_id" => "6441",
-						"coord" => "140,109,256,391"
+						"pos" => "right",
+						"left" => "56%",
+						"top" => "53%"
 					)
 				)
 			),
@@ -635,12 +771,15 @@
 				"url" => "img/libro",
 				"area" => "map-page-31",
 				"posicion" => "right",
-				"coords" => array(
+				"float" => array(
 					array(
+						"ide" => "1",
 						"cod_fabricante" => "MG2016",
 						"clave" => "MNLG-12",
 						"vlc_id" => "6442",
-						"coord" => "10,50,381,577"
+						"pos" => "left",
+						"left" => "74%",
+						"top" => "39%"
 					)
 				)
 			),
@@ -653,18 +792,24 @@
 				"url" => "img/libro",
 				"area" => "map-page-32",
 				"posicion" => "left",
-				"coords" => array(
+				"float" => array(
 					array(
+						"ide" => "1",
 						"cod_fabricante" => "MG2217",
 						"clave" => "MNLG-15",
 						"vlc_id" => "6442",
-						"coord" => "10, 205, 108, 264"
+						"pos" => "right",
+						"left" => "25%",
+						"top" => "31%"
 					),
 					array(
+						"ide" => "2",
 						"cod_fabricante" => "MG2417",
 						"clave" => "MNLG-16",
 						"vlc_id" => "6442",
-						"coord" => "10, 143, 108, 205"
+						"pos" => "right",
+						"left" => "25%",
+						"top" => "25%"
 					)
 				)
 			),
@@ -677,180 +822,267 @@
 				"url" => "img/libro",
 				"area" => "map-page-33",
 				"posicion" => "right",
-				"coords" => array(
+				"float" => array(
 					array(
+						"ide" => "1",
 						"cod_fabricante" => "GCN-001",
 						"clave" => "AC-5993",
 						"vlc_id" => "15262",
-						"coord" => "212,214,370,301"
+						"pos" => "left",
+						"left" => "58%",
+						"top" => "45%"
 					),
 					array(
+						"ide" => "2",
 						"cod_fabricante" => "GCB-001",
 						"clave" => "CB-1140",
 						"vlc_id" => "15262",
-						"coord" => "207,324,369,331"
+						"pos" => "",
+						"left" => "",
+						"top" => ""
 					),
 					array(
+						"ide" => "3",
 						"cod_fabricante" => "GCB-002",
 						"clave" => "CB-1141",
 						"vlc_id" => "15262",
-						"coord" => "206, 548, 372, 556"
+						"pos" => "",
+						"left" => "",
+						"top" => ""
 					),
 					array(
+						"ide" => "4",
 						"cod_fabricante" => "GCB-031",
 						"clave" => "CB-1211",
 						"vlc_id" => "15262",
-						"coord" => "206, 541, 372, 548"
+						"pos" => "",
+						"left" => "",
+						"top" => ""
 					),
 					array(
+						"ide" => "5",
 						"cod_fabricante" => "GCB-003",
 						"clave" => "CB-1142",
 						"vlc_id" => "15262",
-						"coord" => "206, 534, 372, 541"
+						"pos" => "",
+						"left" => "",
+						"top" => ""
 					),
 					array(
+						"ide" => "6",
 						"cod_fabricante" => "GCB-004",
 						"clave" => "CB-1145",
 						"vlc_id" => "15262",
-						"coord" => "206, 527, 372, 534"
+						"pos" => "",
+						"left" => "",
+						"top" => ""
 					),
 					array(
+						"ide" => "7",
 						"cod_fabricante" => "GCB-005",
 						"clave" => "CB-1143",
 						"vlc_id" => "15262",
-						"coord" => "206, 520, 372, 527"
+						"pos" => "",
+						"left" => "",
+						"top" => ""
 					),
 					array(
+						"ide" => "8",
 						"cod_fabricante" => "GCB-006",
 						"clave" => "CB-1144",
 						"vlc_id" => "15262",
-						"coord" => "206, 512, 371, 520"
+						"pos" => "",
+						"left" => "",
+						"top" => ""
 					),
 					array(
+						"ide" => "9",
 						"cod_fabricante" => "GCB-007",
 						"clave" => "CB-1146",
 						"vlc_id" => "15262",
-						"coord" => "206, 503, 371, 512"
+						"pos" => "",
+						"left" => "",
+						"top" => ""
 					),
 					array(
+						"ide" => "10",
 						"cod_fabricante" => "GCB-008",
 						"clave" => "CB-1147",
 						"vlc_id" => "15262",
-						"coord" => "205, 477, 372, 485"
+						"pos" => "",
+						"left" => "",
+						"top" => ""
 					),
 					array(
+						"ide" => "11",
 						"cod_fabricante" => "GCB-010",
 						"clave" => "CB-1191",
 						"vlc_id" => "15262",
-						"coord" => "205, 470, 372, 477"
+						"pos" => "",
+						"left" => "",
+						"top" => ""
 					),
 					array(
+						"ide" => "12",
 						"cod_fabricante" => "GCB-009",
 						"clave" => "CB-1194",
 						"vlc_id" => "15262",
-						"coord" => "205, 463, 372, 470"
+						"pos" => "",
+						"left" => "",
+						"top" => ""
 					),
 					array(
+						"ide" => "13",
 						"cod_fabricante" => "GCB-011",
 						"clave" => "CB-1184",
 						"vlc_id" => "15262",
-						"coord" => "205, 455, 372, 463"
+						"pos" => "",
+						"left" => "",
+						"top" => ""
 					),
 					array(
+						"ide" => "14",
 						"cod_fabricante" => "GCB-012",
 						"clave" => "CB-1190",
 						"vlc_id" => "15262",
-						"coord" => "205, 448, 372, 455"
+						"pos" => "",
+						"left" => "",
+						"top" => ""
 					),
 					array(
+						"ide" => "15",
 						"cod_fabricante" => "GCB-014",
 						"clave" => "CB-1183",
 						"vlc_id" => "15262",
-						"coord" => "205, 439, 372, 448"
+						"pos" => "",
+						"left" => "",
+						"top" => ""
 					),
 					array(
+						"ide" => "16",
 						"cod_fabricante" => "GCB-013",
 						"clave" => "CB-1187",
 						"vlc_id" => "15262",
-						"coord" => "205, 431, 372, 439"
+						"pos" => "",
+						"left" => "",
+						"top" => ""
 					),
 					array(
+						"ide" => "17",
 						"cod_fabricante" => "GCB-015",
 						"clave" => "CB-1185",
 						"vlc_id" => "15262",
-						"coord" => "205, 424, 372, 431"
+						"pos" => "",
+						"left" => "",
+						"top" => ""
 					),
 					array(
+						"ide" => "18",
 						"cod_fabricante" => "GCB-016",
 						"clave" => "CB-1186",
 						"vlc_id" => "15262",
-						"coord" => "205, 417, 372, 424"
+						"pos" => "",
+						"left" => "",
+						"top" => ""
 					),
 					array(
+						"ide" => "19",
 						"cod_fabricante" => "GCB-018",
 						"clave" => "CB-1189",
 						"vlc_id" => "15262",
-						"coord" => "205, 410, 372, 417"
+						"pos" => "",
+						"left" => "",
+						"top" => ""
 					),
 					array(
+						"ide" => "20",
 						"cod_fabricante" => "GCB-017",
 						"clave" => "CB-1196",
 						"vlc_id" => "15262",
-						"coord" => "206, 384, 372, 392"
+						"pos" => "",
+						"left" => "",
+						"top" => ""
 					),
 					array(
+						"ide" => "21",
 						"cod_fabricante" => "GCB-019",
 						"clave" => "CB-1193",
 						"vlc_id" => "15262",
-						"coord" => "206, 376, 372, 384"
+						"pos" => "",
+						"left" => "",
+						"top" => ""
 					),
 					array(
+						"ide" => "22",
 						"cod_fabricante" => "GCB-020",
 						"clave" => "CB-1188",
 						"vlc_id" => "15262",
-						"coord" => "206, 369, 372, 376"
+						"pos" => "",
+						"left" => "",
+						"top" => ""
 					),
 					array(
+						"ide" => "23",
 						"cod_fabricante" => "GCB-022",
 						"clave" => "CB-1197",
 						"vlc_id" => "15262",
-						"coord" => "206, 361, 372, 369"
+						"pos" => "",
+						"left" => "",
+						"top" => ""
 					),
 					array(
+						"ide" => "24",
 						"cod_fabricante" => "GCB-023",
 						"clave" => "CB-1192",
 						"vlc_id" => "15262",
-						"coord" => "206, 354, 372, 361"
+						"pos" => "",
+						"left" => "",
+						"top" => ""
 					),
 					array(
+						"ide" => "25",
 						"cod_fabricante" => "GCB-024",
 						"clave" => "CB-1225",
 						"vlc_id" => "15262",
-						"coord" => "206, 347, 372, 354"
+						"pos" => "",
+						"left" => "",
+						"top" => ""
 					),
 					array(
+						"ide" => "26",
 						"cod_fabricante" => "GCB-025",
 						"clave" => "CB-1225",
 						"vlc_id" => "15262",
-						"coord" => "206, 339, 372, 347"
+						"pos" => "",
+						"left" => "",
+						"top" => ""
 					),
 					array(
+						"ide" => "27",
 						"cod_fabricante" => "GCB-026",
 						"clave" => "CB-1222",
 						"vlc_id" => "15262",
-						"coord" => "206, 332, 372, 339"
+						"pos" => "",
+						"left" => "",
+						"top" => ""
 					),
 					array(
+						"ide" => "28",
 						"cod_fabricante" => "GCB-027",
 						"clave" => "CB-1224",
 						"vlc_id" => "15262",
-						"coord" => "206, 324, 372, 331"
+						"pos" => "",
+						"left" => "",
+						"top" => ""
 					),
 					array(
+						"ide" => "29",
 						"cod_fabricante" => "GCB-029",
 						"clave" => "CB-1219",
 						"vlc_id" => "15262",
-						"coord" => "212, 214, 376, 303"
+						"pos" => "",
+						"left" => "",
+						"top" => ""
 					)
 				)
 			),
@@ -863,12 +1095,15 @@
 				"url" => "img/libro",
 				"area" => "map-page-34",
 				"posicion" => "left",
-				"coords" => array(
+				"float" => array(
 					array(
+						"ide" => "1",
 						"cod_fabricante" => "GCV-002",
 						"clave" => "CV-795",
 						"vlc_id" => "13884",
-						"coord" => "14,60,378,593"
+						"pos" => "",
+						"left" => "",
+						"top" => ""
 					)
 				)
 			),
@@ -881,24 +1116,33 @@
 				"url" => "img/libro",
 				"area" => "map-page-35",
 				"posicion" => "right",
-				"coords" => array(
+				"float" => array(
 					array(
+						"ide" => "1",
 						"cod_fabricante" => "GCV-001",
 						"clave" => "CV-796",
 						"vlc_id" => "13884",
-						"coord" => "85,312,305,358"
+						"pos" => "",
+						"left" => "",
+						"top" => ""
 					),
 					array(
+						"ide" => "2",
 						"cod_fabricante" => "GDV-006",
 						"clave" => "DVR-139",
 						"vlc_id" => "13884",
-						"coord" => "63,512,318,535"
+						"pos" => "",
+						"left" => "",
+						"top" => ""
 					),
 					array(
+						"ide" => "3",
 						"cod_fabricante" => "GDV-005",
 						"clave" => "DVR-144",
 						"vlc_id" => "13884",
-						"coord" => "63,536,318,560"
+						"pos" => "",
+						"left" => "",
+						"top" => ""
 					)
 				)
 			),
@@ -911,42 +1155,60 @@
 				"url" => "img/libro",
 				"area" => "map-page-36",
 				"posicion" => "left",
-				"coords" => array(
+				"float" => array(
 					array(
+						"ide" => "1",
 						"cod_fabricante" => "GDV-001",
 						"clave" => "DVR-143",
 						"vlc_id" => "13884",
-						"coord" => "39, 477, 312, 494"
+						"pos" => "",
+						"left" => "",
+						"top" => ""
 					),
 					array(
+						"ide" => "2",
 						"cod_fabricante" => "GDV-002",
 						"clave" => "",
 						"vlc_id" => "13884",
-						"coord" => "39, 494, 312, 512"
+						"pos" => "",
+						"left" => "",
+						"top" => ""
 					),
 					array(
+						"ide" => "3",
 						"cod_fabricante" => "GDV-003",
 						"clave" => "DVR-140DVR-142",
 						"vlc_id" => "13884",
-						"coord" => "39, 512, 312, 531"
+						"pos" => "",
+						"left" => "",
+						"top" => ""
 					),
 					array(
+						"ide" => "4",
 						"cod_fabricante" => "GDV-004",
 						"clave" => "DVR-141",
 						"vlc_id" => "13884",
-						"coord" => "39, 531, 312, 550"
+						"pos" => "",
+						"left" => "",
+						"top" => ""
 					),
 					array(
+						"ide" => "5",
 						"cod_fabricante" => "GDV-007",
 						"clave" => "DVR-163",
 						"vlc_id" => "13884",
-						"coord" => "39, 550, 312, 568"
+						"pos" => "",
+						"left" => "",
+						"top" => ""
 					),
 					array(
+						"ide" => "6",
 						"cod_fabricante" => "GDV-008",
 						"clave" => "DVR-162",
 						"vlc_id" => "13884",
-						"coord" => "39, 568, 312, 585"
+						"pos" => "",
+						"left" => "",
+						"top" => ""
 					)
 				)
 			),
@@ -959,18 +1221,24 @@
 				"url" => "img/libro",
 				"area" => "map-page-37",
 				"posicion" => "right",
-				"coords" => array(
+				"float" => array(
 					array(
+						"ide" => "1",
 						"cod_fabricante" => "GAL-001",
 						"clave" => "AL-14",
 						"vlc_id" => "13884",
-						"coord" => "23, 62, 381, 384"
+						"pos" => "",
+						"left" => "",
+						"top" => ""
 					),
 					array(
+						"ide" => "2",
 						"cod_fabricante" => "GAL-002",
 						"clave" => "AL-18",
 						"vlc_id" => "13884",
-						"coord" => "27, 392, 369, 584"
+						"pos" => "",
+						"left" => "",
+						"top" => ""
 					)
 				)
 			),
@@ -983,24 +1251,33 @@
 				"url" => "img/libro",
 				"area" => "map-page-38",
 				"posicion" => "left",
-				"coords" => array(
+				"float" => array(
 					array(
+						"ide" => "1",
 						"cod_fabricante" => "G24DHDX7",
 						"clave" => "TV-514",
 						"vlc_id" => "13342",
-						"coord" => "118, 358, 165, 383"
+						"pos" => "",
+						"left" => "",
+						"top" => ""
 					),
 					array(
+						"ide" => "2",
 						"cod_fabricante" => "G32DHDX7",
 						"clave" => "TV-515",
 						"vlc_id" => "13342",
-						"coord" => "168, 358, 216, 383"
+						"pos" => "",
+						"left" => "",
+						"top" => ""
 					),
 					array(
+						"ide" => "3",
 						"cod_fabricante" => "G43DFHDS7",
 						"clave" => "TV-534",
 						"vlc_id" => "13342",
-						"coord" => "219, 358, 271, 383"
+						"pos" => "",
+						"left" => "",
+						"top" => ""
 					)
 				)
 			),
@@ -1013,24 +1290,33 @@
 				"url" => "img/libro",
 				"area" => "map-page-39",
 				"posicion" => "right",
-				"coords" => array(
+				"float" => array(
 					array(
+						"ide" => "1",
 						"cod_fabricante" => "G32DHDS7",
 						"clave" => "TV-513",
 						"vlc_id" => "13342",
-						"coord" => "150, 355, 196, 380"
+						"pos" => "",
+						"left" => "",
+						"top" => ""
 					),
 					array(
+						"ide" => "2",
 						"cod_fabricante" => "G43DFHDS7",
 						"clave" => "TV-534",
 						"vlc_id" => "13342",
-						"coord" => "198, 355, 248, 380"
+						"pos" => "",
+						"left" => "",
+						"top" => ""
 					),
 					array(
+						"ide" => "3",
 						"cod_fabricante" => "G49DFHDS7",
 						"clave" => "TV-520",
 						"vlc_id" => "13342",
-						"coord" => "150, 355, 196, 380"
+						"pos" => "",
+						"left" => "",
+						"top" => ""
 					)
 				)
 			),
@@ -1043,12 +1329,15 @@
 				"url" => "img/libro",
 				"area" => "map-page-40",
 				"posicion" => "left",
-				"coords" => array(
+				"float" => array(
 					array(
+						"ide" => "1",
 						"cod_fabricante" => "GAC-002",
 						"clave" => "AC-4466",
 						"vlc_id" => "13324",
-						"coord" => "12, 59, 385, 592"
+						"pos" => "",
+						"left" => "",
+						"top" => ""
 					)
 				)
 			),
@@ -1061,12 +1350,15 @@
 				"url" => "img/libro",
 				"area" => "map-page-41",
 				"posicion" => "right",
-				"coords" => array(
+				"float" => array(
 					array(
+						"ide" => "1",
 						"cod_fabricante" => "GAC-009",
 						"clave" => "AC-4925",
 						"vlc_id" => "13326",
-						"coord" => "10, 70, 385, 578"
+						"pos" => "",
+						"left" => "",
+						"top" => ""
 					)
 				)
 			),
@@ -1079,54 +1371,78 @@
 				"url" => "img/libro",
 				"area" => "map-page-42",
 				"posicion" => "left",
-				"coords" => array(
+				"float" => array(
 					array(
+						"ide" => "1",
 						"cod_fabricante" => "SPR-1",
 						"clave" => "AC-3432",
 						"vlc_id" => "9481",
-						"coord" => "22, 108, 101, 252"
+						"pos" => "",
+						"left" => "",
+						"top" => ""
 					),
 					array(
+						"ide" => "2",
 						"cod_fabricante" => "STV-13",
 						"clave" => "AC-5778",
 						"vlc_id" => "9481",
-						"coord" => "102, 112, 316, 210"
+						"pos" => "",
+						"left" => "",
+						"top" => ""
 					),
 					array(
+						"ide" => "3",
 						"cod_fabricante" => "SPR-3",
 						"clave" => "AC-3434",
 						"vlc_id" => "9481",
-						"coord" => "22, 253, 101, 407"
+						"pos" => "",
+						"left" => "",
+						"top" => ""
 					),
 					array(
+						"ide" => "4",
 						"cod_fabricante" => "STV-14",
 						"clave" => "AC-5777",
 						"vlc_id" => "9481",
-						"coord" => "113, 219, 235, 364"
+						"pos" => "",
+						"left" => "",
+						"top" => ""
 					),
 					array(
+						"ide" => "5",
 						"cod_fabricante" => "STV-15",
 						"clave" => "AC-5776",
 						"vlc_id" => "9481",
-						"coord" => "236, 209, 367, 363"
+						"pos" => "",
+						"left" => "",
+						"top" => ""
 					),
 					array(
+						"ide" => "6",
 						"cod_fabricante" => "	STV-12",
 						"clave" => "AC-5195",
 						"vlc_id" => "9481",
-						"coord" => "10, 410, 110, 551"
+						"pos" => "",
+						"left" => "",
+						"top" => ""
 					),
 					array(
+						"ide" => "7",
 						"cod_fabricante" => "STV-6",
 						"clave" => "AC-3451",
 						"vlc_id" => "9481",
-						"coord" => "112, 366, 199, 467"
+						"pos" => "",
+						"left" => "",
+						"top" => ""
 					),
 					array(
+						"ide" => "8",
 						"cod_fabricante" => "STV-9",
 						"clave" => "AC-3454",
 						"vlc_id" => "9481",
-						"coord" => "199, 365, 288, 467"
+						"pos" => "",
+						"left" => "",
+						"top" => ""
 					)
 				)
 			),
@@ -1139,12 +1455,15 @@
 				"url" => "img/libro",
 				"area" => "map-page-43",
 				"posicion" => "right",
-				"coords" => array(
+				"float" => array(
 					array(
+						"ide" => "1",
 						"cod_fabricante" => "GAC-001",
 						"clave" => "AC-4552",
 						"vlc_id" => "13327",
-						"coord" => "6, 64, 388, 590"
+						"pos" => "",
+						"left" => "",
+						"top" => ""
 					)
 				)
 			),
