@@ -1,5 +1,6 @@
 <?php
 	// autor: HEVELMO
+	// VERSION: 1.FE
 	require "formDataJSON.php";
 	require "json-file-decode.class.php";
 	$catalogo = array(
