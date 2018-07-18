@@ -28,9 +28,10 @@
 		                </div>
 		                <div class="uk-width-auto@m uk-first-column">
 		                	<div class="uk-margin">
-					            <button class="uk-button uk-button-primary"><span>+</span> Agregar Fila</button>	                	
+					            <button class="uk-button uk-button-primary" id="object-jerarquia-1"><span>+</span> Agregar Fila</button>	                	
 					        </div>
 		                </div>
+
 		            </div>
 		            <div class="uk-grid-small uk-grid-divider uk-child-width-1-4@m uk-grid" uk-grid="">
 		            	<div class="uk-width-auto@m uk-first-column">
