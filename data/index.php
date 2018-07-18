@@ -17,10 +17,10 @@
 		    </div>
 		</nav>
 
-		<div class="uk-container uk-container-small uk-position-relative">
+		<div class="uk-container uk-container-large">
 			<form>
 			    <fieldset class="uk-fieldset">
-			    	<div class="uk-grid-divider uk-child-width-1-2@m uk-grid" uk-grid="">
+			    	<div class="uk-grid-small uk-grid-divider uk-child-width-1-4@m uk-grid" uk-grid="">
 		                <div class="uk-width-1-3@m">
 					        <div class="uk-margin">
 					            <input class="uk-input" type="text" placeholder="objeto">
@@ -32,7 +32,7 @@
 					        </div>
 		                </div>
 		            </div>
-		            <div class="uk-grid-divider uk-child-width-1-2@m uk-grid" uk-grid="">
+		            <div class="uk-grid-small uk-grid-divider uk-child-width-1-4@m uk-grid" uk-grid="">
 		            	<div class="uk-width-auto@m uk-first-column">
 		            	</div>
 		                <div class="uk-width-1-4@m">
@@ -52,11 +52,11 @@
 		                </div>
 		                <div class="uk-width-auto@m uk-first-column">
 		                	<div class="uk-margin">
-					            <button class="uk-button uk-button-primary"><span>+</span> Agregar Sub Objeto</button>	                	
+					            <button class="uk-button uk-button-primary"><span>+</span> Agregar Objeto</button>	                	
 					        </div>
 		                </div>
 		            </div>
-		            <div class="uk-grid-divider uk-child-width-1-2@m uk-grid" uk-grid="">
+		            <div class="uk-grid-small uk-grid-divider uk-child-width-1-4@m uk-grid" uk-grid="">
 		            	<div class="uk-width-auto@m uk-first-column">
 		            	</div>
 		            	<div class="uk-width-auto@m uk-first-column">
@@ -73,12 +73,7 @@
 		                </div>
 		                <div class="uk-width-auto@m uk-first-column">
 		                	<div class="uk-margin">
-					            <button class="uk-button uk-button-primary"><span>+</span></button>	                	
-					        </div>
-		                </div>
-		                <div class="uk-width-auto@m uk-first-column">
-		                	<div class="uk-margin">
-					            <button class="uk-button uk-button-primary"><span>+</span></button>	                	
+					            <button class="uk-button uk-button-primary"><span>+</span> Agregar Fila</button>	                	
 					        </div>
 		                </div>
 		            </div>
