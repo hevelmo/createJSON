@@ -1,6 +1,7 @@
 <?php
 ?>
 
+
 <form name="codexworld_frm" action="" method="post">
     <div class="field_wrapper">
         <div>
@@ -28,8 +29,8 @@
 ?>
 
 
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-<script src="http://demos.codexworld.com/includes/js/bootstrap.js"></script>
+
+        
 <script type="text/javascript">
 $(document).ready(function(){
     var maxField = 10; //Input fields increment limitation
