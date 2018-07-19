@@ -16,76 +16,62 @@
 		    	</div>
 		    </div>
 		</nav>
+		<div id="object-array"style="margin: 50px auto; width: 1080px; display: block;">
+			<div>
+				<span id="edit">
+					<span id="is-edit">objeto</span>
+					<span id="is-change" style="displa: none;">
+						<input class="is-jerarqui-object" id="jerarquia-object" type="text" placeholder="objeto">
+						<a id="jerarquia-object-add-row-1"><span>+</span></a>
+						<a id="jerarquia-object-cancel-row-1"><span>x</span> </a>
+					</span>	
+				</span>			
+			</div>
+		</div>
+		
 
-		<div class="uk-container uk-container-large">
-			<form>
-			    <fieldset class="uk-fieldset">
-			    	<div class="uk-grid-small uk-grid-divider uk-child-width-1-4@m uk-grid" uk-grid="">
-		                <div class="uk-width-1-3@m">
-					        <div class="uk-margin">
-					            <input class="uk-input" type="text" placeholder="objeto">
-					        </div>		                	
-		                </div>
-		                <div class="uk-width-auto@m uk-first-column">
-		                	<div class="uk-margin">
-					            <button class="uk-button uk-button-primary" id="object-jerarquia-1"><span>+</span> Agregar Fila</button>	                	
-					        </div>
-		                </div>
+		<input class="uk-input" type="text" placeholder="llave">
+		<input class="uk-input" type="text" placeholder="valor">
+		<button class="uk-button uk-button-primary"><span>+</span> Agregar Fila</button>
+		<button class="uk-button uk-button-primary"><span>+</span> Agregar Objeto</button>
 
-		            </div>
-		            <div class="uk-grid-small uk-grid-divider uk-child-width-1-4@m uk-grid" uk-grid="">
-		            	<div class="uk-width-auto@m uk-first-column">
-		            	</div>
-		                <div class="uk-width-1-4@m">
-					        <div class="uk-margin">
-					            <input class="uk-input" type="text" placeholder="llave">
-					        </div>		                	
-		                </div>
-		                <div class="uk-width-1-4@m">
-					        <div class="uk-margin">
-					            <input class="uk-input" type="text" placeholder="valor">
-					        </div>		                	
-		                </div>
-		                <div class="uk-width-auto@m uk-first-column">
-		                	<div class="uk-margin">
-					            <button class="uk-button uk-button-primary"><span>+</span> Agregar Fila</button>	                	
-					        </div>
-		                </div>
-		                <div class="uk-width-auto@m uk-first-column">
-		                	<div class="uk-margin">
-					            <button class="uk-button uk-button-primary"><span>+</span> Agregar Objeto</button>	                	
-					        </div>
-		                </div>
-		            </div>
-		            <div class="uk-grid-small uk-grid-divider uk-child-width-1-4@m uk-grid" uk-grid="">
-		            	<div class="uk-width-auto@m uk-first-column">
-		            	</div>
-		            	<div class="uk-width-auto@m uk-first-column">
-		            	</div>
-		                <div class="uk-width-1-4@m">
-					        <div class="uk-margin">
-					            <input class="uk-input" type="text" placeholder="llave">
-					        </div>		                	
-		                </div>
-		                <div class="uk-width-1-4@m">
-					        <div class="uk-margin">
-					            <input class="uk-input" type="text" placeholder="valor">
-					        </div>		                	
-		                </div>
-		                <div class="uk-width-auto@m uk-first-column">
-		                	<div class="uk-margin">
-					            <button class="uk-button uk-button-primary"><span>+</span> Agregar Fila</button>	                	
-					        </div>
-		                </div>
-		            </div>
-			    </fieldset>
-			</form>
-			<style type="text/css">
-			</style>
-			<?php
-				//require "formDataJSON.php";
-			?>
-    	</div>
+		<input class="uk-input" type="text" placeholder="llave">
+		<input class="uk-input" type="text" placeholder="valor">
+		<button class="uk-button uk-button-primary"><span>+</span> Agregar Fila</button>
+		<style type="text/css">
+			#edit {
+				display: inline-block;
+				vertical-align: middle;
+				border:  1px solid #dcdcdc;
+				padding: 5px;				
+	    		width: 200px;
+			}
+			#edit #is-change input.is-jerarqui-object {
+				border:  none;
+			}
+			#edit #is-change input.is-jerarqui-object::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+				font-weight: normal;
+				color: #000;
+			}
+			#edit #is-change input.is-jerarqui-object:-ms-input-placeholder { /* Internet Explorer 10-11 */
+				font-weight: normal;
+				color: #000;
+			}
+			#edit #is-change input.is-jerarqui-object::-ms-input-placeholder { /* Microsoft Edge */
+				font-weight: normal;
+				color: #000;
+			}
+			#jerarquia-object-add-row-1,
+			#jerarquia-object-cancel-row-1 {
+			    width: 35px;
+			    display: inline-block;
+			    border: 1px solid #d5d5d5;
+			    text-align: center;
+			}
+		</style>
+		<?php
+			//require "formDataJSON.php";
+		?>
 		<?php
 			// autor: HEVELMO
 			// VERSION: 1.FE
@@ -1723,11 +1709,21 @@
 			*/
 		?>
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+		<script type="text/javascript">
+			$("#is-change").css("display", "none");
+			$("#edit").mousemove(function(event) {
+			    $("#is-edit").css("display", "none");
+			    $("#is-change").css("display", "inline-block");
+			});
+			$("#edit").mouseout(function() {
+				$("#is-edit").css("display", "inline-block");
+				$("#is-change").css("display", "none");
+			});;
+		</script>
 		<!-- UIkit CSS -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-rc.9/css/uikit.min.css" />
-
-<!-- UIkit JS -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-rc.9/js/uikit.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-rc.9/js/uikit-icons.min.js"></script>
+		<!--<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-rc.9/css/uikit.min.css" />-->
+		<!-- UIkit JS -->
+		<!--<script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-rc.9/js/uikit.min.js"></script>-->
+		<!--<script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-rc.9/js/uikit-icons.min.js"></script>-->
 	</body>
 </html>
